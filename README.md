@@ -1,2 +1,2 @@
 # Safe-and-Ergonomic-Human-Drone-Interaction-in-Warehouses
-Project for Dynamical System Theory exam: Safe and Ergonomic Human-Drone Interaction in Warehouses  - Publication for IROS 2022 Conference - Link https://ieeexplore.ieee.org/abstract/document/9981469
+Project for Dynamical System Theory exam: Safe and Ergonomic Human-Drone Interaction in Warehouses  - Publication for IROS 2022 Conference 
